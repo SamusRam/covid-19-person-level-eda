@@ -31,9 +31,9 @@ In this project I've performed and shared a prelimenary analysis of currently av
 There is 1 main notebook with its own Content enabling easier navigation between different parts of the analysis.
 
 Data about COVID-19 patients in The Czech Republic are openly available at the Ministry of Health of the Czech Republic [webpage](https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19). 
-To put the COVID-19 situation into demographics context, we’ll use data from the Czech Statistical Office [website](https://www.czso.cz/csu/czso/home).
-For brief comparison with population of Canada, data from [Roche UNCOVER COVID-19 Challenge](https://www.kaggle.com/roche-data-science-coalition/uncover) were used, as well as demographics data from [Statistics Canada website](https://www.statcan.gc.ca/eng/start).
-[Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) by [SRK](https://www.kaggle.com/sudalairajkumar) was used for data quality validation.
+To put the COVID-19 situation into demographics context, we use data from the Czech Statistical Office [website](https://www.czso.cz/csu/czso/home).
+For brief comparison with population of Canada, data from [Roche UNCOVER COVID-19 Challenge](https://www.kaggle.com/roche-data-science-coalition/uncover) are used, as well as demographics data from [Statistics Canada website](https://www.statcan.gc.ca/eng/start).
+[Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) by [SRK](https://www.kaggle.com/sudalairajkumar) are used for data quality validation.
 
 ## Results<a name="results"></a>
 
